@@ -1,0 +1,11 @@
+Waiting 10 seconds for players
+Player0 connected
+Player1 connected
+Game has started with 2 players
+New round starting - waiting 30 seconds for all players to press deal
+Player0 dealed002
+Player1 dealed01000
+New round starting - waiting 30 seconds for all players to press deal
+Player0 dealed00100
+Player1 dealed0300
+New round starting - waiting 30 seconds for all players to press deal
